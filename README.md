@@ -1,6 +1,6 @@
 ## Salut l'équipe 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Heyrwann)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Heyrwann&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
