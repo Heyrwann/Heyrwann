@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&theme=tokyonight)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heyrwann&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ---
 
