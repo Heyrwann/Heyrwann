@@ -52,7 +52,7 @@ Je suis actuellement en formation intensive pour devenir **Développeur Web Full
 - Contribuer à des projets **open source**.
 - Découvrir de nouvelles technologies comme **TypeScript** ou **Next.js**.
 
----
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&theme=tokyonight)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heyrwann&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
@@ -68,12 +68,6 @@ Je suis actuellement en formation intensive pour devenir **Développeur Web Full
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=heyrwann&layout=compact&theme=tokyonight)
--->
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
-
-<!--
-![header](https://capsule-render.vercel.app/api?type=wavingheight=300&theme=tokyonight&section=footer)
 -->
 
 <!--
