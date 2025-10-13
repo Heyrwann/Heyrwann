@@ -2,6 +2,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&theme=tokyonight)
 
+## 🌱 En formation
+
+- HTML5 & CSS3
+- SASS
+- Javascript
+- React.js
+- Bulma/Tailwind CSS
+- Merise (SQL)
+- MongoDB (NoSQL)
+- Java EE & Spring Boot
+- Node.js & Express.js
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heyrwann&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 -->
