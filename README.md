@@ -42,7 +42,7 @@ Je suis actuellement en formation intensive pour devenir **Développeur Web Full
 
 | Projet| Description| Technologies utilisées |
 | ----- | ---------- | ---------------------- |
-| **Lanfing Page** | Développement d'une landing page avec un compte à rebours (En cours de développement) | HTML5, CSS3, Javascrpt|
+| **Landing Page** | Développement d'une landing page avec un compte à rebours (En cours de développement) | HTML5, CSS3, Javascrpt|
 | **Facturier Spring Boot** | Développement d'une application de facturier (En cours de développement) | Java, Spring Boot      |
 
 ---
