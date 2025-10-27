@@ -12,11 +12,12 @@ Je suis actuellement en formation intensive pour devenir **Développeur Web Full
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 - ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-- **JavaScript** (En cours)
-- **React.js** (En cours)
+- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (En cours)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) (En cours)
 
 ### **Frameworks CSS**
-- **Bulma** ou **Tailwind CSS** (En cours)
+- ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) (En cours)
+- ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) (En cours)
 
 ### **Langages & Technologies Backend**
 - **Java (Java EE / Spring Boot)** (En cours)
