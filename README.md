@@ -1,87 +1,14 @@
-# 👋 Bonjour, je suis Erwann !
+# Hey <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="45">
 
-**Développeur Web et Web Mobile en formation**
-
-Je suis actuellement en formation intensive pour devenir **Développeur Web Full Stack**, avec un focus sur les technologies modernes et les bonnes pratiques du développement logiciel.
-
----
-
-## 🛠️ Mes Compétences
-
-### Langages & Technologies Frontend
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (En cours)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) (En cours)
-
-### **Frameworks CSS**
-- ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) (En cours)
-- ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) (En cours)
-
-### **Langages & Technologies Backend**
-- **Java (Java EE / Spring Boot)** (En cours)
-- **Node.js / Express.js** (En cours)
-- **SQL / Merise** (En cours)
-- **MongoDB** (En cours)
-
-### **Outils & Pratiques DevOps**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-- **Docker** ou **Podman** (En cours)
-- **Ligne de commande / Terminal**
-- **Tests unitaires** (En cours)
-- **Sécurité** (En cours) : Bonnes pratiques pour sécuriser les applications web.
-- **Pratiques DevOps** (En cours)
-
-### **Conception UX/UI**
-- ![GitHub](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+Je m'appelle **Erwann**, développeur full stack en formation basé en 🇫🇷 France.  
+Je code pour résoudre des problèmes et créer des trucs.  
+J'ai quelques repos publics, mais en privé... disons que j'expérimente *beaucoup*.  
+Mon setup : bureau minimaliste, musique calme, eau du robinet.  
 
 ---
 
-## 💡 **Mes Projets**
+## 🛠️ Outils
 
-| Projet| Description| Technologies utilisées |
-| ----- | ---------- | ---------------------- |
-| **Landing Page** | Développement d'une landing page avec un compte à rebours (En cours de développement) | HTML5, CSS3, Javascrpt|
-| **Facturier Spring Boot** | Développement d'une application de facturier (En cours de développement) | Java, Spring Boot      |
-
----
-
-## 🎯 **Objectifs Futurs**
-- Approfondir mes compétences en **Spring Boot**.
-- Contribuer à des projets **open source**.
-- Découvrir de nouvelles technologies comme **TypeScript** ou **Next.js**.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&theme=tokyonight)
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Heyrwann&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
--->
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyrwann&theme=tokyonight)](https://git.io/streak-stats) 
--->
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyrwann&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=heyrwann&layout=compact&theme=tokyonight)
--->
-
-<!--
-**Heyrwann/Heyrwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
